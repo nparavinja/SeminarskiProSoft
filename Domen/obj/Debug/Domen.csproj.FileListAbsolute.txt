@@ -1,0 +1,12 @@
+C:\Users\nenad\OneDrive\Desktop\8. semestar\Projektovanje softvera\Seminarski\Seminarski2019\Domen\Domen\obj\Debug\Domen.csprojAssemblyReference.cache
+C:\Users\nenad\OneDrive\Desktop\8. semestar\Projektovanje softvera\Seminarski\Seminarski2019\Domen\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\nenad\OneDrive\Desktop\8. semestar\Projektovanje softvera\Seminarski\Seminarski2019\Domen\Domen\bin\Debug\Domen.dll
+C:\Users\nenad\OneDrive\Desktop\8. semestar\Projektovanje softvera\Seminarski\Seminarski2019\Domen\Domen\bin\Debug\Domen.pdb
+C:\Users\nenad\OneDrive\Desktop\8. semestar\Projektovanje softvera\Seminarski\Seminarski2019\Domen\Domen\obj\Debug\Domen.dll
+C:\Users\nenad\OneDrive\Desktop\8. semestar\Projektovanje softvera\Seminarski\Seminarski2019\Domen\Domen\obj\Debug\Domen.pdb
+C:\Users\nenad\OneDrive\Desktop\8. semestar\Projektovanje softvera\Seminarski\Seminarski2019\SeminarskiProSoft\Domen\bin\Debug\Domen.dll
+C:\Users\nenad\OneDrive\Desktop\8. semestar\Projektovanje softvera\Seminarski\Seminarski2019\SeminarskiProSoft\Domen\bin\Debug\Domen.pdb
+C:\Users\nenad\OneDrive\Desktop\8. semestar\Projektovanje softvera\Seminarski\Seminarski2019\SeminarskiProSoft\Domen\obj\Debug\Domen.csprojAssemblyReference.cache
+C:\Users\nenad\OneDrive\Desktop\8. semestar\Projektovanje softvera\Seminarski\Seminarski2019\SeminarskiProSoft\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\nenad\OneDrive\Desktop\8. semestar\Projektovanje softvera\Seminarski\Seminarski2019\SeminarskiProSoft\Domen\obj\Debug\Domen.dll
+C:\Users\nenad\OneDrive\Desktop\8. semestar\Projektovanje softvera\Seminarski\Seminarski2019\SeminarskiProSoft\Domen\obj\Debug\Domen.pdb
